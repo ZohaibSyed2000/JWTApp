@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net6.0",
+    "\\Context",
+    "\\Controllers",
+    "\\Migrations",
+    "\\Models"
+  ],
+  "SelectedNode": "\\Properties",
+  "PreviewInSolutionExplorer": false
+}
